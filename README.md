@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KarthikeyaJS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=KarthikeyaJS)
+(https://komarev.com/ghpvc/?username=KarthikeyaJS)
 
 - 🌱 I’m currently learning **Python, Java, Flutter, and many more...**
 
